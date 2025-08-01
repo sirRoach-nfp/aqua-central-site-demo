@@ -1,0 +1,231 @@
+
+
+.globalTypo__h1{
+
+}
+
+.globalTypo__logo__header{
+    color: #1e1e1e;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0;
+    background: linear-gradient(to right, #0454c4, #3392ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    
+}
+
+.globalTypo__heroPrimary{
+    font-family: 'Urbanist', sans-serif;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.globalTypo__heroSecondary{
+    margin: 0;
+}
+
+.globalTypo__eyebrowText{
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #0454c4;
+}
+
+.globalTypo__sectionTitle{
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1e1e1e;
+}
+
+.globalTypo__sectionSecondary{
+    font-weight: 1rem;
+    margin: 0;
+    text-align: center;
+}
+
+.globalTypo__sectionSecondary__left{
+    font-weight: 1rem;
+    margin: 0;
+    
+}
+
+.globalTypo__tertiaryHeader{
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+
+.globalTypo__blogCard__meta{
+    margin: 0;
+     color: #0454c4;
+     padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+     border: 1px solid #0454c4;
+     width: fit-content;
+     border-radius: 5px;
+}
+.globalTypo__blogCard__title{
+    margin: 0;
+}
+.globalTypo__blogCard__excerpt{
+    margin: 0;
+}
+
+.globalTypo__blogCard__linkReadmore{
+    text-decoration: none;
+    align-self: last baseline;
+    color: #0454c4 ;
+}
+
+.globalTypo__blogCard__meta__date{
+    margin: 0;
+    font-size: 0.75;
+}
+
+.globalTypo__footerBrandLogo{
+    margin: 0;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.globalTypo__footerBrandSlogan{
+    margin: 0;
+
+    color: white;
+    font-size: 1rem;
+}
+
+.globalTypo__footerLinks{
+    text-decoration: underline;
+    color: white;
+    font-weight: 700;
+}
+
+@media(min-width:767px) {
+
+    .globalTypo__logo__header{
+    color: #1e1e1e;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+    background: linear-gradient(to right, #0454c4, #3392ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    }
+
+    .globalTypo__navigation__link{
+        font-size: 1rem;
+        font-weight: 500;
+        letter-spacing: 0.05rem;
+    }
+
+
+    .globalTypo__footerBrandLogo{
+        margin: 0;
+        color: white;
+        font-size: 1.25rem;
+    }
+
+    .globalTypo__footerBrandSlogan{
+        margin: 0;
+
+        color: white;
+        font-size: 1rem;
+    }
+
+    .globalTypo__footerLinks{
+        text-decoration: underline;
+        color: white;
+        font-weight: 700;
+    }
+
+}
+
+
+@media(min-width:1023px) {
+    
+    .globalTypo__logo__header{
+    color: #1e1e1e;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+     background: linear-gradient(to right, #0454c4, #3392ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    }
+
+    .globalTypo__navigation__link{
+        font-size: 1rem;
+        font-weight: 500;
+        letter-spacing: 0.05rem;
+    }
+
+
+    .globalTypo__footerBrandLogo{
+    margin: 0;
+    color: white;
+    font-size: 1.5rem;
+    }
+
+    .globalTypo__footerBrandSlogan{
+        margin: 0;
+
+        color: white;
+        font-size: 1.15rem;
+    }
+
+    .globalTypo__footerLinks{
+        text-decoration: underline;
+        color: white;
+        font-weight: 700;
+        font-size: 1.25;
+        letter-spacing: 0.05rem;
+    }
+
+}
+
+@media(min-width:1024px) {
+    
+    .globalTypo__logo__header{
+    color: #1e1e1e;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0;
+    background: linear-gradient(to right, #0454c4, #3392ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    }
+
+    .globalTypo__navigation__link{
+        font-size: 1.125rem;
+        font-weight: 500;
+        letter-spacing: 0.05rem;
+    }
+
+
+
+    
+    .globalTypo__footerBrandLogo{
+    margin: 0;
+    color: white;
+    font-size: 2rem;
+    }
+
+    .globalTypo__footerBrandSlogan{
+        margin: 0;
+
+        color: white;
+        font-size: 1.15rem;
+    }
+
+    .globalTypo__footerLinks{
+        text-decoration: underline;
+        color: white;
+        font-weight: 700;
+        font-size: 1.25;
+        letter-spacing: 0.05rem;
+    }
+
+}
