@@ -27,7 +27,7 @@ main{
 }
 
 
-@media(min-width:375px){
+@media(min-width:325px){
     footer{
     border: 1px  black;
     padding: 4rem 1.5rem;

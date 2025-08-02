@@ -15,7 +15,8 @@
 }
 
 
-@media(min-width:375px){
+
+@media(min-width:325px){
    /*---- nav handlers ---- */
     .burger{
         display: block;
